@@ -6,9 +6,9 @@ tags = ["kicad"]
 categories = ["electronics"]
 +++
 
-## Installing the precompiled binaries
-
-Download my binaries for [plotkicadsch](https://github.com/jnavila/plotkicadsch)
+Compiling [plotkicadsch](https://github.com/jnavila/plotkicadsch) from
+source is a little bit complicated. To make your
+life easier I uploaded my compiled binaries here:
 
 * [for Mint 19/Ubuntu 18.04, 64 bit](/uploads/plotkicadsch_v0.3.0-21-ga5b939b.tgz)
 
