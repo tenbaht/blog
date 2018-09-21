@@ -1,0 +1,25 @@
+baseurl = "https://www.example.org/"
+title = "Embedded notes"
+copyright = "Copyright &copy; 2018 - Michael Mayer"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Michael Mayer"
+    github = "https://github.com/tenbaht"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "Quick notes on embedded systems, electronics and CNC"
+
+
