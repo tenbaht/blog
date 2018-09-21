@@ -1,4 +1,4 @@
-baseurl = "https://www.example.org/"
+baseurl = "https://tenbaht.github.io/"
 title = "Embedded notes"
 copyright = "Copyright &copy; 2018 - Michael Mayer"
 canonifyurls = true
