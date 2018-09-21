@@ -10,14 +10,15 @@ meta = "false"
 I am a developer for embedded systems. I work on hardware as well as on
 low-level software.
 
-My current projects (apart from my one-year old son):
+My current projects (apart from my one-year old son, which doesn't leave
+much time for other things right now):
 
-* SDuino: Adopting the Arduino environment for the STM8 MCU
+* [SDuino](https://github.com/tenbaht/sduino): Adopting the Arduino environment for the STM8 MCU
 * building a Shapeoko CNC mill
 * UV exposure unit for PCB prototyping (etching mask and solder mask)
 * reflow oven: Control electronics and software
-* SMT pick and place machine: Develop and build, using DC motors from inkjet
-  printers
+* [SMT pick and place machine](https://hackaday.io/project/158261-simple-pick-and-place-head):
+  Develop and build, using DC motors from inkjet printers
 
 Available tools:
 
