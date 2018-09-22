@@ -16,7 +16,7 @@ much time for other things right now):
 * [SDuino](https://github.com/tenbaht/sduino): Adopting the Arduino environment for the STM8 MCU
 * building a Shapeoko CNC mill
 * UV exposure unit for PCB prototyping (etching mask and solder mask)
-* reflow oven: Control electronics and software
+* [reflow oven](/tags/reflow-oven/): Control electronics and software
 * [SMT pick and place machine](https://hackaday.io/project/158261-simple-pick-and-place-head):
   Develop and build, using DC motors from inkjet printers
 
