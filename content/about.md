@@ -10,8 +10,8 @@ meta = "false"
 I am a developer for embedded systems. I work on hardware as well as on
 low-level software.
 
-My current projects (apart from my one-year old son, which doesn't leave
-much time for other things right now):
+My current projects (apart from our one-and-a-half year old, which doesn't
+leave much time for other things right now):
 
 * [SDuino](https://github.com/tenbaht/sduino): Adopting the Arduino environment for the STM8 MCU
 * building a Shapeoko CNC mill
@@ -19,6 +19,8 @@ much time for other things right now):
 * [reflow oven](/tags/reflow-oven/): Control electronics and software
 * [SMT pick and place machine](https://hackaday.io/project/158261-simple-pick-and-place-head):
   Develop and build, using DC motors from inkjet printers
+* Porting the [SMC3 DC motor controller](https://github.com/tenbaht/servo-motor-controller) for the
+  ATmega328/Arduino Uno and for use with gcc.
 
 Available tools:
 

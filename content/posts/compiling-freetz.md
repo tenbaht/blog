@@ -32,6 +32,7 @@ System runterladen und konfigurieren:
 
 	svn checkout http://svn.freetz.org/trunk
 	cd trunk
+	umask 0022
 	make menuconfig
 
 Unter "Webinterfaces->AVM Firewall" aktivieren.  Speicher ist leider extrem

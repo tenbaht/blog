@@ -1,6 +1,6 @@
 baseurl = "https://tenbaht.github.io/"
 title = "Embedded notes"
-copyright = "Copyright &copy; 2018 - Michael Mayer"
+copyright = "Copyright &copy; 2018-2019 - Michael Mayer"
 canonifyurls = true
 theme = "kiera"
 
