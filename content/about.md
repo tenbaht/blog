@@ -10,7 +10,8 @@ meta = "false"
 I am a developer for embedded systems. I work on hardware as well as on
 low-level software.
 
-My current projects (apart from our one-and-a-half year old, which doesn't
+My current projects (apart from our three year old and another little guy
+coming very soon, which doesn't
 leave much time for other things right now):
 
 * [SDuino](https://github.com/tenbaht/sduino): Adopting the Arduino environment for the STM8 MCU
