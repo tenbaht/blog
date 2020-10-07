@@ -1,5 +1,5 @@
 +++
-title = "Akkupack Vom Staubsaugerroboter Wiederbleben"
+title = "Akkupack vom Staubsaugerroboter wiederbleben"
 date = 2019-11-14T21:52:29+01:00
 draft = true
 tags = []

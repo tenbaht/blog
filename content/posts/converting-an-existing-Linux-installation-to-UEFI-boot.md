@@ -2,8 +2,8 @@
 title = "Converting an Existing Linux Installation to UEFI Boot"
 date = 2019-10-09T13:54:54+02:00
 draft = false
-tags = []
-categories = []
+tags = ["Linux"]
+categories = ["system administration", "software"]
 +++
 
 ![Converting an Existing Linux Installation to UEFI Boot](/images/efiboot.png)

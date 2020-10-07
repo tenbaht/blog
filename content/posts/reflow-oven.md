@@ -2,8 +2,8 @@
 title = "SMD reflow oven from the dumpster"
 date = 2018-04-01T00:02:36+02:00
 draft = false
-tags = ["electronic", "reflow oven"]
-categories = ["PCB", "SMT"]
+tags = ["reflow oven", "PCB", "SMT"]
+categories = ["electronics", "tools"]
 +++
 
 ![my reflow oven](/images/reflow-800.jpg)

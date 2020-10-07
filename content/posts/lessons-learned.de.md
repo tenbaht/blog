@@ -2,8 +2,8 @@
 title = "SMD reflow oven: lessons learned"
 date = 2018-04-02T12:05:00+02:00
 draft = false
-tags = ["electronic", "reflow oven"]
-categories = ["PCB", "SMT"]
+tags = ["PCB", "SMT", "reflow oven"]
+categories = ["electronics", "tools"]
 +++
 
 

@@ -7,8 +7,10 @@ The site is rendered using hugo instead of jekyll.
 
 	hugo new posts/title-of-the-post.md
 
-edit the file in content/posts, add title image in static/images. Check:
+edit the file in content/posts, add title image in static/images.
 
 	hugo serve
 
+After checking, deploy to github pages:
 
+	./deploy.sh
