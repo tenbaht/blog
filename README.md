@@ -11,6 +11,16 @@ edit the file in content/posts, add title image in static/images.
 
 	hugo serve
 
-After checking, deploy to github pages:
+After checking, commit the local changes into the blog repository:
+
+	git add .
+	git commit
+	git push
+
+Finally, deploy the rendered pages to github pages:
 
 	./deploy.sh
+
+
+Themes:
+- hugo dusk: gut, dunkel
